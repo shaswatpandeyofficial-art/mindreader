@@ -1,0 +1,9 @@
+Mind Reader round (1-100)
+  1. 50 -> higher
+  2. 75 -> higher
+  3. 88 -> higher
+  4. 94 -> higher
+  5. 97 -> higher
+  6. 99 -> higher
+  7. 100 -> correct
+Result: found 100 in 7 guess(es)

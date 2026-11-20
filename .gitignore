@@ -1,0 +1,9 @@
+# Local builds
+mind
+mind.exe
+*.o
+*.so
+*.dll
+
+# Generated round logs
+log.txt
